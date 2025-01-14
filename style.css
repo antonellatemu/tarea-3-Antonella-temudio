@@ -25,5 +25,10 @@ form{
     font-optical-sizing: auto;
   
 }
-
-  
+header{
+    background: radial-gradient(rgb(240, 31, 59),rgb(235, 117, 136),rgb(243, 210, 210));
+}
+#name, #message{
+    border-radius: 20px;
+    border-color: rgb(243, 17, 84);
+}
